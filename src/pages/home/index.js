@@ -49,7 +49,7 @@ export const Home = () => {
                   </Link>
                   <a target="_blank" href="https://in.linkedin.com/in/ayushgalphat9513">
                     <div id="button_h" className="ac_btn btn">
-                      Linked In
+                      LinkedIn
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>
