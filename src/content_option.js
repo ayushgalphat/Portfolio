@@ -256,10 +256,10 @@ const analytics = [
 ];
 const ux = [
   {
-    img: "ux.png",
+    img: "Ux.png",
     description:
       "CreatorFlow AI",
-    link: "/ux.png",
+    link: "/Ux.png",
   },
 ];
 const others = [
