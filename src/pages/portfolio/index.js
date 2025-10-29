@@ -89,7 +89,8 @@ export const Portfolio = () => {
               optimize, and distribute content across Instagram, X (Twitter),
               YouTube, and LinkedIn.
             </div>
-                <a href="https://robust-drug-2b9.notion.site/CreatorFlow-AI-An-AI-Powered-Content-Management-Platform-for-Social-Media-Excellence-Case-Study-29ac86115b02802b845fdb9cff6ab12a?pvs=143">  
+                <a  style={{fontSize:"24px"}} href="https://robust-drug-2b9.notion.site/CreatorFlow-AI-An-AI-Powered-Content-Management-Platform-for-Social-Media-Excellence-Case-Study-29ac86115b02802b845fdb9cff6ab12a?pvs=143">  
+                
                 Link
                 </a>
             <br />
