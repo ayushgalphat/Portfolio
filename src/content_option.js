@@ -102,9 +102,9 @@ const skills = [
 
 const services = [
   {
-    title: " Product Research and Management (Full-time) | Bengaluru, India",
+    title: " Product Research and Management (Full-time) | Blaash.io",
     company: "Blaash.io",
-    duration: "Mar 2024 - June 2024",
+    duration: "Bengaluru, India | Mar 2024 - June 2024",
     description: [
       "Launched end-to-end B2B SaaS solutions for Preconstruction Business users (Palcode.ai) & Low and no-code platform users, identifying trends, competitive gaps, and customer needs. Conducted AI-driven CRM & Business Management App market research, for analysis of 300+ brands to inform the development. ",
       "Designed product wireframes and led cold email campaigns, achieving a 20% engagement boost. Collaborated cross-functionally with UI/UX and dev teams to deliver 3 new features using Agile and project management practices. ",
