@@ -105,12 +105,12 @@ const services = [
     title: " Growth (Full-time) | Wiingy",
     company: "Blaash.io",
     duration: "Bengaluru, India  |  Nov 2025 - Present",
-    // description: [
-    //   "Launched end-to-end B2B SaaS solutions for Preconstruction Business users (Palcode.ai) & Low and no-code platform users, identifying trends, competitive gaps, and customer needs. Conducted AI-driven CRM & Business Management App market research, for analysis of 300+ brands to inform the development. ",
-    //   "Designed product wireframes and led cold email campaigns, achieving a 20% engagement boost. Collaborated cross-functionally with UI/UX and dev teams to deliver 3 new features using Agile and project management practices. ",
-    //   "Engaged industry leaders across 23+ countries to identify & verify pain points, validate product-market fit, and refine features through A/B testing, while documenting projects and reporting with stakeholders to drive launches. ",
-    //   "Built automation for real-time market insights, reducing analysis time in handling data-sets by 98% and enabling visual data dashboards to support strategic decision-making and prioritized backlog input.",
-    // ],
+    description: [
+      "Launched end-to-end B2B SaaS solutions for Preconstruction Business users (Palcode.ai) & Low and no-code platform users, identifying trends, competitive gaps, and customer needs. Conducted AI-driven CRM & Business Management App market research, for analysis of 300+ brands to inform the development. ",
+      "Designed product wireframes and led cold email campaigns, achieving a 20% engagement boost. Collaborated cross-functionally with UI/UX and dev teams to deliver 3 new features using Agile and project management practices. ",
+      "Engaged industry leaders across 23+ countries to identify & verify pain points, validate product-market fit, and refine features through A/B testing, while documenting projects and reporting with stakeholders to drive launches. ",
+      "Built automation for real-time market insights, reducing analysis time in handling data-sets by 98% and enabling visual data dashboards to support strategic decision-making and prioritized backlog input.",
+    ],
   },
   {
     title: " Product Research and Management (Full-time) | Blaash.io",
