@@ -248,7 +248,7 @@ const dataportfolio = [
 ];
 const analytics = [
   {
-    img: "analytics1.png",
+    img: "analytics1.jpg",
     description:
       "Retail Sales Analytics Dashboard (Walmart Sales)",
     link: "https://github.com/ayushgalphat/walmart-sales-analysis",
