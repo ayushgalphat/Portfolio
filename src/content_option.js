@@ -113,44 +113,44 @@ const services = [
     ],
   },
   {
-    title: " Management Intern (Full-time, Remote) | United States",
+    title: " Management Intern (Full-time, Remote) | Smoky Resources",
     company: "Smoky Resources",
-    duration: "Dec 2023- Jan 2024",
+    duration: "United States | Dec 2023- Jan 2024",
     description: [
       " Consulted 10+ global clients, optimizing profiles for better career alignment, tracking applications and providing continuous account management support.",
       "Handled & managed administrative tasks, data-entry and reporting, cross-time zone collaboration, including US operations, and enhancing team work efficiency by 15%.",
     ],
   },
   {
-    title: " Marketing Intern (Contractual) | Bhopal, Bengaluru",
+    title: " Marketing Intern (Contractual) | StockGro",
     company: "StockGro",
-    duration: "Aug 2023- Oct 2023",
+    duration: "Bhopal, Bengaluru | Aug 2023- Oct 2023",
     description: [
       " Improved platform engagement, translating into stronger community traction and boosting audience retention, introducing practical skills exposure.",
       " Promoted financial literacy outcomes through real-time market events, hosted events and market sessions with StockGro, gaining 500+ signups in 2 days and 90% positive feedback.",
     ],
   },
   {
-    title: " Sustainable Product Development (Part-time, Contractual) | Bhopal",
+    title: " Sustainable Product Development (Part-time, Contractual) | AICTE IDEA Lab",
     company: "AICTE IDEA Lab",
-    duration: "Aug 2023- Oct 2023",
+    duration: "Bhopal | Aug 2023- Oct 2023",
     description: [
       " Researched and developed sustainable products, leveraging emerging technologies for real-world solutions with applications in STEM fundamentals to develop prototypes, foster critical thinking and problem-solving under central-government schemes.",
       " Applied CAD & Design knowledge (SolidWorks, KiCAD, EAGLE, RDWorks) to instruct technical workshops for learners, gaining hands-on experience, logic building, and fostering community learning in an unsupervised setting with application in engineering and ergonomics after university hours.",
     ],
   },
   {
-    title: " Senior Content Writer | Bhopal",
+    title: " Senior Content Writer | KLIC E-Cell",
     company: "KLIC E-Cell",
-    duration: "Jan 2023 - June 2023",
+    duration: "Bhopal | Jan 2023 - June 2023",
     description: [
       " Contributed as a Senior Copywriter at EnWoods, creating impactful long and short-form content that aligned with company's voice, boosted engagement, and strengthened audience connection.",
     ],
   },
   {
-    title: " Vocational Trainee (Contractual) | Bhopal",
+    title: " Vocational Trainee (Contractual) | BHEL Bhopal",
     company: "BHEL Bhopal",
-    duration: "July 2022",
+    duration: "Bhopal | July 2022",
     description: [
       " Gained hands-on exposure to industrial operations, resource allocation, and production workflows, including assembly, quality control, logistics, and ergonomics in a live manufacturing environment.",
       " Collaborated with senior engineers to optimize automation and management, enhancing efficiency in large-scale manufacturing and power generation operations.",
