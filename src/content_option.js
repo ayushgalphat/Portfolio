@@ -104,7 +104,7 @@ const services = [
   {
     title: " Product Research and Management (Full-time) | Blaash.io",
     company: "Blaash.io",
-    duration: "Bengaluru, India | Mar 2024 - June 2024",
+    duration: "Bengaluru, India  |  Mar 2024 - June 2024",
     description: [
       "Launched end-to-end B2B SaaS solutions for Preconstruction Business users (Palcode.ai) & Low and no-code platform users, identifying trends, competitive gaps, and customer needs. Conducted AI-driven CRM & Business Management App market research, for analysis of 300+ brands to inform the development. ",
       "Designed product wireframes and led cold email campaigns, achieving a 20% engagement boost. Collaborated cross-functionally with UI/UX and dev teams to deliver 3 new features using Agile and project management practices. ",
@@ -115,7 +115,7 @@ const services = [
   {
     title: " Management Intern (Full-time, Remote) | Smoky Resources",
     company: "Smoky Resources",
-    duration: "United States | Dec 2023- Jan 2024",
+    duration: "United States  |  Dec 2023- Jan 2024",
     description: [
       " Consulted 10+ global clients, optimizing profiles for better career alignment, tracking applications and providing continuous account management support.",
       "Handled & managed administrative tasks, data-entry and reporting, cross-time zone collaboration, including US operations, and enhancing team work efficiency by 15%.",
@@ -124,7 +124,7 @@ const services = [
   {
     title: " Marketing Intern (Contractual) | StockGro",
     company: "StockGro",
-    duration: "Bhopal, Bengaluru | Aug 2023- Oct 2023",
+    duration: "Bhopal, Bengaluru  |  Aug 2023- Oct 2023",
     description: [
       " Improved platform engagement, translating into stronger community traction and boosting audience retention, introducing practical skills exposure.",
       " Promoted financial literacy outcomes through real-time market events, hosted events and market sessions with StockGro, gaining 500+ signups in 2 days and 90% positive feedback.",
@@ -133,7 +133,7 @@ const services = [
   {
     title: " Sustainable Product Development (Part-time, Contractual) | AICTE IDEA Lab",
     company: "AICTE IDEA Lab",
-    duration: "Bhopal | Aug 2023- Oct 2023",
+    duration: "Bhopal  |  Aug 2023- Oct 2023",
     description: [
       " Researched and developed sustainable products, leveraging emerging technologies for real-world solutions with applications in STEM fundamentals to develop prototypes, foster critical thinking and problem-solving under central-government schemes.",
       " Applied CAD & Design knowledge (SolidWorks, KiCAD, EAGLE, RDWorks) to instruct technical workshops for learners, gaining hands-on experience, logic building, and fostering community learning in an unsupervised setting with application in engineering and ergonomics after university hours.",
@@ -142,7 +142,7 @@ const services = [
   {
     title: " Senior Content Writer | KLIC E-Cell",
     company: "KLIC E-Cell",
-    duration: "Bhopal | Jan 2023 - June 2023",
+    duration: "Bhopal  |  Jan 2023 - June 2023",
     description: [
       " Contributed as a Senior Copywriter at EnWoods, creating impactful long and short-form content that aligned with company's voice, boosted engagement, and strengthened audience connection.",
     ],
@@ -150,7 +150,7 @@ const services = [
   {
     title: " Vocational Trainee (Contractual) | BHEL Bhopal",
     company: "BHEL Bhopal",
-    duration: "Bhopal | July 2022",
+    duration: "Bhopal  |  July 2022",
     description: [
       " Gained hands-on exposure to industrial operations, resource allocation, and production workflows, including assembly, quality control, logistics, and ergonomics in a live manufacturing environment.",
       " Collaborated with senior engineers to optimize automation and management, enhancing efficiency in large-scale manufacturing and power generation operations.",
