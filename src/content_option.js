@@ -142,7 +142,7 @@ const services = [
   {
     title: " Senior Content Writer | Bhopal",
     company: "KLIC E-Cell",
-    duration: "Jjan 2023 - June 2023",
+    duration: "Jan 2023 - June 2023",
     description: [
       " Contributed as a Senior Copywriter at EnWoods, creating impactful long and short-form content that aligned with company's voice, boosted engagement, and strengthened audience connection.",
     ],
