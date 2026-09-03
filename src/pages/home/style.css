@@ -93,7 +93,7 @@ section {
 
 .intro_sec .h_bg-image {
     background-size: cover;
-    background-position: center;
+    background-position: center 70%;
     min-height: 700px;
     position: relative;
 }
@@ -229,6 +229,6 @@ section {
     color: var(--text-color)
 }
 
-.intro_sec .h_bg-image {
+/* .intro_sec .h_bg-image {
     filter: saturate(0.5);
-}
+} */
