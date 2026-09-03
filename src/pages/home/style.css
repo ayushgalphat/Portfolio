@@ -94,14 +94,12 @@ section {
 .intro_sec .h_bg-image {
     /* background-size: contain; */
     /* background-repeat: no-repeat; */
+    /* aspect-ratio: 4 / 5; */
+    /* max-height: calc(100vh - 60px); */
     background-size: cover;
     background-position: center 40%;
-    /* height: 700px; */
-    /* height: 75vh !important; */
-    /* min-height: 700px; */
-    height: auto !important;
-    aspect-ratio: 4 / 5;
-    max-height: calc(100vh - 60px);
+    height: 100%;
+    min-height: 700px;
     position: relative;
 }
 
@@ -201,12 +199,10 @@ section {
 
 @media (max-width:991.98px) {
     .intro_sec .h_bg-image {
-        /* height: 600px; */
-        /* min-height: 75vh; */
-        height: auto !important;
-        min-height: unset;
-        aspect-ratio: 4 / 5;
-        max-height: 70vh;
+        /* aspect-ratio: 4 / 5; */
+        /* max-height: 70vh; */
+        height: 600px;
+        min-height: 75vh;
         margin-bottom: 30px;
     }
     .intro_sec .h_bg-image .block {
