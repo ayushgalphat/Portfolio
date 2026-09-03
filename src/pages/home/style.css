@@ -97,7 +97,7 @@ section {
     /* aspect-ratio: 4 / 5; */
     /* max-height: calc(100vh - 60px); */
     background-size: 120% auto;
-    background-position: center 85%;
+    background-position: center 45%;
     height: 100%;
     min-height: 700px;
     position: relative;
@@ -236,6 +236,6 @@ section {
     color: var(--text-color)
 }
 
-.intro_sec .h_bg-image {
+/* .intro_sec .h_bg-image {
     filter: saturate(0.5);
-} 
+}  */
