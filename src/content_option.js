@@ -13,7 +13,7 @@ const introdata = {
   },
   description:
     "Heyy, my name is Ayush and I work at the intersection of product, design, and data. I build and optimize digital products using user insights, research, and analytics to drive growth and real-world impact.",
-  your_img_url: "/profile.png",
+  your_img_url: "/ghibli.jpeg",
 };
 
 const dataabout = {
