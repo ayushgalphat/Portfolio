@@ -94,7 +94,7 @@ section {
 .intro_sec .h_bg-image {
     /* background-size: contain; */
     /* background-repeat: no-repeat; */
-    background-size: cover; */
+    background-size: cover;
     background-position: center;
     height: 700px;
     /* height: 75vh |impotant; */
