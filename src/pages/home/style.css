@@ -96,8 +96,8 @@ section {
     /* background-repeat: no-repeat; */
     /* aspect-ratio: 4 / 5; */
     /* max-height: calc(100vh - 60px); */
-    background-size: 120% auto;
-    background-position: center 45%;
+    background-size: cover;
+    background-position: center 70%;
     height: 100%;
     min-height: 700px;
     position: relative;
